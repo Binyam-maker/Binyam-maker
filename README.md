@@ -1,10 +1,10 @@
 
 # Hi there!
 - 👋  I’m Binyam
-- 👀 I’m interested in Mern stack
-- 🌱 I’m currently learning React ecosystem
-- 💞️ I’m looking to collaborate on Mern projects
-- 📫 How to reach me ...
+- 👀 I’m interested in MEARN stack
+- 🌱 I’m currently learning Typescript app development
+- 💞️ I’m looking to collaborate on WEb App projects
+- 📫 You can reach me through twitter
 
 ## 🛠️  Skills
 
