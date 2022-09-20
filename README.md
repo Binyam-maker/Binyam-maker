@@ -3,7 +3,7 @@
 - 👋  I’m Binyam
 - 👀 I’m interested in MEARN stack
 - 🌱 I’m currently learning Typescript app development
-- 💞️ I’m looking to collaborate on WEb App projects
+- 💞️ I’m looking to collaborate on Web App projects
 - 📫 You can reach me through twitter
 
 ## 🛠️  Skills
